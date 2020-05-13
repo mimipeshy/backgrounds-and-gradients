@@ -1,0 +1,12 @@
+# Environments
+.idea
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.vscode/
+.vs/
+.idea/
