@@ -1,6 +1,6 @@
 # Apple Website Clone
 
-![screenshot]()
+![screenshot](./screenshot.png)
 
 This project consists of building a webpage using images as a background and adding
 
