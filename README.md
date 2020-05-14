@@ -14,7 +14,7 @@ Apple website webpage.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://mimipeshy.github.io/backgrounds-and-gradients/)
 
 
 ## Getting Started
