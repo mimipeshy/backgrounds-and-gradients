@@ -135,9 +135,13 @@ aside ul,
 footer {
   margin-top: 10px;
   height: 10vh;
-  font-size: 10px;
+  font-size:12px;
   justify-content: space-around;
   align-items: baseline;
+}
+
+.first-section p:last-child{
+  margin-top: 20px;
 }
 
 .sitemap ul li {
