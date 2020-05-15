@@ -158,6 +158,7 @@ footer {
 .justify-center { justify-content: center; }
 .washed-out { color: #6e6e6e; }
 .font { font-family: 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, sans-serif; }
+
 .gradient {
   background: -moz-linear-gradient(top, #888 0%, #707070 49%, #5e5e5e 50%, #717571 100%);
   background: -webkit-linear-gradient(top, #888 0%, #707070 49%, #5e5e5e 50%, #717571 100%);
