@@ -1,12 +1,10 @@
-# Apple Website Clone
+# Apple website clone
+
+The goal is to make a clone of old an old version of the Apple website webpage.
 
 ![screenshot](./app_screenshot.png)
 
-This project consists of building a webpage using images as a background and adding
-
-gradients to elements. The goal is to make a clone of old an old version of the
-
-Apple website webpage.
+This project consists of building a webpage using images as a background and adding gradients to elements.
 
 ## Built With
 
@@ -14,15 +12,28 @@ Apple website webpage.
 
 ## Live Demo
 
-[Live Demo Link](https://mimipeshy.github.io/backgrounds-and-gradients/)
+[Live Demo Link](https://mimipeshy.github.io/backgrounds-and-gradients)
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
+### Prerequisites
+
+Install git in your local machine
+
+### Setup
+
+Type `git init` in your local repository
+
+### Install
+
+To clone this website type `git clone https://github.com/mimipeshy/backgrounds-and-gradients.git ` on your terminal
+
 ### Usage
-- Just open the `index.html` file
+
+Just open the `index.html` file and run it with any browser of your choice
 
 
 ## Authors
@@ -31,6 +42,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Github: [@githubhandle](https://github.com/mimipeshy)
 - LinkedIn: [@linkedinhandle](https://www.linkedin.com/in/peris-ndanu-405083193/)
+
 
 ## 🤝 Contributing
 
