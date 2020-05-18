@@ -113,13 +113,13 @@ nav li:last-child {
   padding: 3px 20px;
 }
 
-/* aside section */
-aside {
+/* main section */
+main {
   margin-top: 0.3em;
   height: 200px;
 }
 
-aside ul,
+main ul,
 .sitemap ul {
   max-width: 100%;
   height: 100%;
