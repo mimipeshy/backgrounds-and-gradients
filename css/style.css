@@ -29,7 +29,7 @@ nav {
   border-radius: 3px;
 }
 
-nav ul > li > a {
+nav a {
   height: 36px;
   color: #fff;
   align-items: center;
@@ -40,7 +40,7 @@ nav ul > li > a {
   border-radius: 3px;
 }
 
-aside ul li + li a {
+main li + li a {
   border-left: 2px solid #fff;
 }
 
