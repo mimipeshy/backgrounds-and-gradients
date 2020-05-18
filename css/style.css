@@ -53,7 +53,6 @@ nav a:hover {
   background: linear-gradient(#808080, #5e5e5e, #2c2c2c, #5e5e5e, #808080);
 }
 
-ul,
 li {
   padding: 0;
   list-style: none;
@@ -72,7 +71,6 @@ nav ul {
   text-align: center;
 }
 
-.image-three p:last-child { font-size: 1.5em; }
 .image-three p:hover { text-decoration: underline; }
 
 div.search-box {
@@ -105,7 +103,7 @@ div.search-box {
 #search-input:focus {
   background: #fff;
   background: linear-gradient(#fff, #fff);
-  width: 130px;
+  width: 150px;
   outline: none;
   border-radius: 12px;
   border: 1px solid transparent;
