@@ -79,6 +79,10 @@ div.search-box {
   position: relative;
 }
 
+.fa-apple {
+  font-size: 19px;
+}
+
 .fa-search {
   color: white;
   position: absolute;
@@ -141,6 +145,12 @@ footer {
 
 .sitemap ul li {
   display: inline-block;
+}
+
+.sitemap-link img {
+  height: 13px;
+  width: auto;
+  vertical-align: bottom;
 }
 
 .sitemap-link {
